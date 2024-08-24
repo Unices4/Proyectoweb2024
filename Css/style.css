@@ -1,0 +1,21 @@
+body {
+    background: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 5px;
+    text-shadow: 0 0 0.3em gold;
+}
+
+.foto{
+    margin-top: 200px;
+    text-align: center;
+}
+
+.foto img{
+    mix-blend-mode: darken;
+    width: 200px;
+}
